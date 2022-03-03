@@ -52,7 +52,9 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="Vagabond sack"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:id="@+id/ProViewPrice1"
@@ -63,7 +65,7 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="$120"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart" />
                     </LinearLayout>
                 </LinearLayout>
 
@@ -93,7 +95,9 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="Stella sunglasses"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:id="@+id/ProViewPrice2"
@@ -104,7 +108,7 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="$58"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart" />
                     </LinearLayout>
                 </LinearLayout>
 
@@ -134,7 +138,9 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="Whitney belt"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:id="@+id/ProViewPrice3"
@@ -145,7 +151,7 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="$35"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart" />
                     </LinearLayout>
                 </LinearLayout>
 
@@ -184,7 +190,9 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="Garden strand"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:id="@+id/ProViewPrice4"
@@ -195,7 +203,7 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="$98"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart" />
                     </LinearLayout>
                 </LinearLayout>
 
@@ -225,7 +233,9 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="Strut earring"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:id="@+id/ProViewPrice5"
@@ -236,7 +246,7 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="$34"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart" />
                     </LinearLayout>
                 </LinearLayout>
 
@@ -266,7 +276,9 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="Varsity socks"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
 
                         <TextView
                             android:id="@+id/ProViewPrice6"
@@ -277,7 +289,7 @@
                             android:layout_marginRight="25dp"
                             android:gravity="center_horizontal"
                             android:text="$12"
-                            android:textAlignment="center" />
+                            android:textAlignment="viewStart" />
                     </LinearLayout>
                 </LinearLayout>
 
